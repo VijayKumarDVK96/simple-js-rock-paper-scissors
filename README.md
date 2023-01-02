@@ -1,5 +1,7 @@
 # Rock, Paper, Scissor Game with Javascript
 
+**DEMO :** https://sparkly-pixie-bb7ee1.netlify.app/
+
 Developed a responsive website for Rock, Paper, Scissor Game with Javascript where user can play the game along with computer and the one who score the first 10 points will be declared as a winner.
 
 > **Technologies used:** HTML, CSS, JS, Bootstrap
