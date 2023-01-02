@@ -110,7 +110,7 @@ function computerWin() {
 }
 
 /*
-07 - If user and computer are same, no score assigned for both
+07 - If user and computer are same, no score assigned for both and considered as draw
 */
 
 function draw() {
@@ -118,7 +118,7 @@ function draw() {
 }
 
 /*
-08 - Trigger the rock, paper, scissor and call the game function with parameter passing
+08 - Trigger the rock, paper, scissor by clicking it and call the game function with parameter passing
 */
 
 rock_div.addEventListener('click', () => game('rock'));
